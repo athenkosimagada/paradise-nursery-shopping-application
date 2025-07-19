@@ -14,7 +14,7 @@ import {
   ShoppingCartPage,
 } from "./pages";
 
-import "./globals.css";
+import "./index.css";
 
 const router = createBrowserRouter([
   {
