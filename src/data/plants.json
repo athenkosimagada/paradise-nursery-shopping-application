@@ -1,0 +1,227 @@
+[
+  {
+    "name": "Peace Lily",
+    "description": "Glossy green leaves with elegant white flowers, thrives in low light and purifies air.",
+    "commonFeature": "Air Purifying Plants",
+    "imageThumbnail": "/assets/images/peace_lily_thumbnail.jpg",
+    "isAddedToCart": false,
+    "isOnSale": true,
+    "price": 69
+  },
+  {
+    "name": "Boston Fern",
+    "description": "Lush, feathery fronds that add humidity and clean indoor air, prefers indirect light.",
+    "commonFeature": "Air Purifying Plants",
+    "imageThumbnail": "/assets/images/boston_fern_thumbnail.jpg",
+    "isAddedToCart": false,
+    "isOnSale": true,
+    "price": 79
+  },
+  {
+    "name": "Areca Palm",
+    "description": "Tall, feathery palm that filters toxins and adds a tropical vibe to spaces.",
+    "commonFeature": "Air Purifying Plants",
+    "imageThumbnail": "/assets/images/areca_palm_thumbnail.jpg",
+    "isAddedToCart": false,
+    "isOnSale": false,
+    "price": 149
+  },
+  {
+    "name": "English Ivy",
+    "description": "Trailing vine with lush green leaves, effective at reducing airborne mold.",
+    "commonFeature": "Air Purifying Plants",
+    "imageThumbnail": "/assets/images/english_ivy_thumbnail.jpg",
+    "isAddedToCart": false,
+    "isOnSale": true,
+    "price": 59
+  },
+  {
+    "name": "Rubber",
+    "description": "Shiny, dark green leaves that purify air, prefers bright indirect light.",
+    "commonFeature": "Air Purifying Plants",
+    "imageThumbnail": "/assets/images/rubber_thumbnail.jpg",
+    "isAddedToCart": false,
+    "isOnSale": false,
+    "price": 99
+  },
+  {
+    "name": "Lavender",
+    "description": "Silvery-green foliage with purple flower spikes, known for calming fragrance.",
+    "commonFeature": "Aromatic Fragrant Plants",
+    "imageThumbnail": "/assets/images/lavender_thumbnail.jpg",
+    "isAddedToCart": false,
+    "isOnSale": false,
+    "price": 149
+  },
+  {
+    "name": "Jasmine (Mogra)",
+    "description": "Sweet-scented white blooms, ideal for gardens or pots near windows.",
+    "commonFeature": "Aromatic Fragrant Plants",
+    "imageThumbnail": "/assets/images/jasmine_thumbnail.jpg",
+    "isAddedToCart": false,
+    "isOnSale": false,
+    "price": 199
+  },
+  {
+    "name": "Raat Ki Rani",
+    "description": "Night-blooming shrub with powerful fragrance, perfect for evening gardens.",
+    "commonFeature": "Aromatic Fragrant Plants",
+    "imageThumbnail": "/assets/images/raat_ki_rani_thumbnail.jpg",
+    "isAddedToCart": false,
+    "isOnSale": false,
+    "price": 249
+  },
+  {
+    "name": "Gardenia",
+    "description": "Glossy leaves with creamy, fragrant flowers, known for its rich scent.",
+    "commonFeature": "Aromatic Fragrant Plants",
+    "imageThumbnail": "/assets/images/gardenia_thumbnail.jpg",
+    "isAddedToCart": false,
+    "isOnSale": false,
+    "price": 179
+  },
+  {
+    "name": "Scented Geranium",
+    "description": "Soft, velvety leaves with a rose-like fragrance, great for pots.",
+    "commonFeature": "Aromatic Fragrant Plants",
+    "imageThumbnail": "/assets/images/scented_geranium_thumbnail.jpg",
+    "isAddedToCart": false,
+    "isOnSale": true,
+    "price": 129
+  },
+  {
+    "name": "Spider",
+    "description": "Green and white striped leaves, hardy and pet-friendly, thrives in various conditions.",
+    "commonFeature": "Low Maintenance Plants",
+    "imageThumbnail": "/assets/images/spider_thumbnail.jpg",
+    "isAddedToCart": false,
+    "isOnSale": true,
+    "price": 69
+  },
+  {
+    "name": "Snake",
+    "description": "Upright, sword-like leaves, thrives with minimal care in low light.",
+    "commonFeature": "Low Maintenance Plants",
+    "imageThumbnail": "/assets/images/snake_thumbnail.jpg",
+    "isAddedToCart": false,
+    "isOnSale": true,
+    "price": 79
+  },
+  {
+    "name": "ZZ",
+    "description": "Glossy, dark green leaves, drought-tolerant and thrives in low light.",
+    "commonFeature": "Low Maintenance Plants",
+    "imageThumbnail": "/assets/images/zz_thumbnail.jpg",
+    "isAddedToCart": false,
+    "isOnSale": true,
+    "price": 89
+  },
+  {
+    "name": "Pothos",
+    "description": "Heart-shaped green leaves with variegation, grows well in low light with little care.",
+    "commonFeature": "Low Maintenance Plants",
+    "imageThumbnail": "/assets/images/pothos_thumbnail.jpg",
+    "isAddedToCart": false,
+    "isOnSale": true,
+    "price": 59
+  },
+  {
+    "name": "Cast Iron",
+    "description": "Tough, dark green leaves, survives neglect and low light conditions.",
+    "commonFeature": "Low Maintenance Plants",
+    "imageThumbnail": "/assets/images/cast_iron_thumbnail.jpg",
+    "isAddedToCart": false,
+    "isOnSale": false,
+    "price": 99
+  },
+  {
+    "name": "Aloe Vera",
+    "description": "Succulent with thick leaves containing soothing gel, used for skin care.",
+    "commonFeature": "Medicinal Plants",
+    "imageThumbnail": "/assets/images/aloe_vera_thumbnail.jpg",
+    "isAddedToCart": false,
+    "isOnSale": true,
+    "price": 69
+  },
+  {
+    "name": "Tulsi (Holy Basil)",
+    "description": "Sacred herb with green leaves, used in teas for respiratory and stress relief.",
+    "commonFeature": "Medicinal Plants",
+    "imageThumbnail": "tulsi_thumbnail.jpg",
+    "isAddedToCart": false,
+    "isOnSale": false,
+    "price": 79
+  },
+  {
+    "name": "Peppermint",
+    "description": "Aromatic herb with cooling leaves, used for digestion and headache relief.",
+    "commonFeature": "Medicinal Plants",
+    "imageThumbnail": "/assets/images/peppermint_thumbnail.jpg",
+    "isAddedToCart": false,
+    "isOnSale": true,
+    "price": 59
+  },
+  {
+    "name": "Chamomile",
+    "description": "Small, daisy-like flowers used in teas for relaxation and sleep aid.",
+    "commonFeature": "Medicinal Plants",
+    "imageThumbnail": "/assets/images/chamomile_thumbnail.jpg",
+    "isAddedToCart": false,
+    "isOnSale": false,
+    "price": 89
+  },
+  {
+    "name": "Lemongrass",
+    "description": "Tall, grassy plant with lemon-scented stalks, used for digestion and teas.",
+    "commonFeature": "Medicinal Plants",
+    "imageThumbnail": "/assets/images/lemongrass_thumbnail.jpg",
+    "isAddedToCart": false,
+    "isOnSale": false,
+    "price": 99
+  },
+  {
+    "name": "Damascus Rose",
+    "description": "Fragrant rose with edible petals, used in desserts and perfumes.",
+    "commonFeature": "Edible Plants",
+    "imageThumbnail": "/assets/images/damascus_rose_thumbnail.jpg",
+    "isAddedToCart": false,
+    "isOnSale": false,
+    "price": 299
+  },
+  {
+    "name": "Hibiscus",
+    "description": "Vibrant red flowers, petals used in teas and culinary dishes.",
+    "commonFeature": "Edible Plants",
+    "imageThumbnail": "/assets/images/hibiscus_thumbnail.jpg",
+    "isAddedToCart": false,
+    "isOnSale": false,
+    "price": 199
+  },
+  {
+    "name": "Nasturtium",
+    "description": "Bright orange and yellow flowers with a peppery flavor, edible leaves and blooms.",
+    "commonFeature": "Edible Plants",
+    "imageThumbnail": "/assets/images/nasturtium_thumbnail.jpg",
+    "isAddedToCart": false,
+    "isOnSale": true,
+    "price": 69
+  },
+  {
+    "name": "Rosemary",
+    "description": "Aromatic herb with needle-like leaves, used in cooking and infusions.",
+    "commonFeature": "Edible Plants",
+    "imageThumbnail": "/assets/images/rosemary_thumbnail.jpg",
+    "isAddedToCart": false,
+    "isOnSale": false,
+    "price": 89
+  },
+  {
+    "name": "Basil",
+    "description": "Fragrant herb with soft green leaves, perfect for culinary dishes like pesto.",
+    "commonFeature": "Edible Plants",
+    "imageThumbnail": "/assets/images/basil_thumbnail.jpg",
+    "isAddedToCart": false,
+    "isOnSale": true,
+    "price": 59
+  }
+]

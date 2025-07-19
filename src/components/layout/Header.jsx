@@ -5,7 +5,7 @@ const Header = () => {
   const location = useLocation();
 
   return (
-    <header className="bg-primary">
+    <header className="bg-primary sticky top-0 left-0 right-0">
       <div className="max-w-[1440px] mx-auto px-8 text-white p-4 flex justify-between items-center">
         <h1 className="text-xl font-bold">
           <Link className="flex items-center gap-6" to="/app/products">
