@@ -147,7 +147,7 @@
     "name": "Tulsi (Holy Basil)",
     "description": "Sacred herb with green leaves, used in teas for respiratory and stress relief.",
     "commonFeature": "Medicinal Plants",
-    "imageThumbnail": "tulsi_thumbnail.jpg",
+    "imageThumbnail": "/assets/images/tulsi_thumbnail.jpg",
     "isAddedToCart": false,
     "isOnSale": false,
     "price": 79
