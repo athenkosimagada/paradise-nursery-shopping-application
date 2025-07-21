@@ -1,1 +1,22 @@
-[]
+[
+  {
+    "id": 1,
+    "productId": 13,
+    "name": "ZZ",
+    "description": "Glossy, dark green leaves, drought-tolerant and thrives in low light.",
+    "commonFeature": "Low Maintenance Plants",
+    "imageThumbnail": "/assets/images/zz_thumbnail.jpg",
+    "price": 89,
+    "quantity": 3
+  },
+  {
+    "id": 2,
+    "productId": 1,
+    "name": "Peace Lily",
+    "description": "Glossy green leaves with elegant white flowers, thrives in low light and purifies air.",
+    "commonFeature": "Air Purifying Plants",
+    "imageThumbnail": "/assets/images/peace_lily_thumbnail.jpg",
+    "price": 69,
+    "quantity": 1
+  }
+]

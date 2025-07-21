@@ -1,5 +1,6 @@
 [
   {
+    "id": 1,
     "name": "Peace Lily",
     "description": "Glossy green leaves with elegant white flowers, thrives in low light and purifies air.",
     "commonFeature": "Air Purifying Plants",
@@ -9,6 +10,7 @@
     "price": 69
   },
   {
+    "id": 2,
     "name": "Boston Fern",
     "description": "Lush, feathery fronds that add humidity and clean indoor air, prefers indirect light.",
     "commonFeature": "Air Purifying Plants",
@@ -18,6 +20,7 @@
     "price": 79
   },
   {
+    "id": 3,
     "name": "Areca Palm",
     "description": "Tall, feathery palm that filters toxins and adds a tropical vibe to spaces.",
     "commonFeature": "Air Purifying Plants",
@@ -27,6 +30,7 @@
     "price": 149
   },
   {
+    "id": 4,
     "name": "English Ivy",
     "description": "Trailing vine with lush green leaves, effective at reducing airborne mold.",
     "commonFeature": "Air Purifying Plants",
@@ -36,6 +40,7 @@
     "price": 59
   },
   {
+    "id": 5,
     "name": "Rubber",
     "description": "Shiny, dark green leaves that purify air, prefers bright indirect light.",
     "commonFeature": "Air Purifying Plants",
@@ -45,6 +50,7 @@
     "price": 99
   },
   {
+    "id": 6,
     "name": "Lavender",
     "description": "Silvery-green foliage with purple flower spikes, known for calming fragrance.",
     "commonFeature": "Aromatic Fragrant Plants",
@@ -54,6 +60,7 @@
     "price": 149
   },
   {
+    "id": 7,
     "name": "Jasmine (Mogra)",
     "description": "Sweet-scented white blooms, ideal for gardens or pots near windows.",
     "commonFeature": "Aromatic Fragrant Plants",
@@ -63,6 +70,7 @@
     "price": 199
   },
   {
+    "id": 8,
     "name": "Raat Ki Rani",
     "description": "Night-blooming shrub with powerful fragrance, perfect for evening gardens.",
     "commonFeature": "Aromatic Fragrant Plants",
@@ -72,6 +80,7 @@
     "price": 249
   },
   {
+    "id": 9,
     "name": "Gardenia",
     "description": "Glossy leaves with creamy, fragrant flowers, known for its rich scent.",
     "commonFeature": "Aromatic Fragrant Plants",
@@ -81,6 +90,7 @@
     "price": 179
   },
   {
+    "id": 10,
     "name": "Scented Geranium",
     "description": "Soft, velvety leaves with a rose-like fragrance, great for pots.",
     "commonFeature": "Aromatic Fragrant Plants",
@@ -90,6 +100,7 @@
     "price": 129
   },
   {
+    "id": 11,
     "name": "Spider",
     "description": "Green and white striped leaves, hardy and pet-friendly, thrives in various conditions.",
     "commonFeature": "Low Maintenance Plants",
@@ -99,6 +110,7 @@
     "price": 69
   },
   {
+    "id": 12,
     "name": "Snake",
     "description": "Upright, sword-like leaves, thrives with minimal care in low light.",
     "commonFeature": "Low Maintenance Plants",
@@ -108,6 +120,7 @@
     "price": 79
   },
   {
+    "id": 13,
     "name": "ZZ",
     "description": "Glossy, dark green leaves, drought-tolerant and thrives in low light.",
     "commonFeature": "Low Maintenance Plants",
@@ -117,6 +130,7 @@
     "price": 89
   },
   {
+    "id": 14,
     "name": "Pothos",
     "description": "Heart-shaped green leaves with variegation, grows well in low light with little care.",
     "commonFeature": "Low Maintenance Plants",
@@ -126,6 +140,7 @@
     "price": 59
   },
   {
+    "id": 15,
     "name": "Cast Iron",
     "description": "Tough, dark green leaves, survives neglect and low light conditions.",
     "commonFeature": "Low Maintenance Plants",
@@ -135,6 +150,7 @@
     "price": 99
   },
   {
+    "id": 16,
     "name": "Aloe Vera",
     "description": "Succulent with thick leaves containing soothing gel, used for skin care.",
     "commonFeature": "Medicinal Plants",
@@ -144,6 +160,7 @@
     "price": 69
   },
   {
+    "id": 17,
     "name": "Tulsi (Holy Basil)",
     "description": "Sacred herb with green leaves, used in teas for respiratory and stress relief.",
     "commonFeature": "Medicinal Plants",
@@ -153,6 +170,7 @@
     "price": 79
   },
   {
+    "id": 18,
     "name": "Peppermint",
     "description": "Aromatic herb with cooling leaves, used for digestion and headache relief.",
     "commonFeature": "Medicinal Plants",
@@ -162,6 +180,7 @@
     "price": 59
   },
   {
+    "id": 19,
     "name": "Chamomile",
     "description": "Small, daisy-like flowers used in teas for relaxation and sleep aid.",
     "commonFeature": "Medicinal Plants",
@@ -171,6 +190,7 @@
     "price": 89
   },
   {
+    "id": 20,
     "name": "Lemongrass",
     "description": "Tall, grassy plant with lemon-scented stalks, used for digestion and teas.",
     "commonFeature": "Medicinal Plants",
@@ -180,6 +200,7 @@
     "price": 99
   },
   {
+    "id": 21,
     "name": "Damascus Rose",
     "description": "Fragrant rose with edible petals, used in desserts and perfumes.",
     "commonFeature": "Edible Plants",
@@ -189,6 +210,7 @@
     "price": 299
   },
   {
+    "id": 22,
     "name": "Hibiscus",
     "description": "Vibrant red flowers, petals used in teas and culinary dishes.",
     "commonFeature": "Edible Plants",
@@ -198,6 +220,7 @@
     "price": 199
   },
   {
+    "id": 23,
     "name": "Nasturtium",
     "description": "Bright orange and yellow flowers with a peppery flavor, edible leaves and blooms.",
     "commonFeature": "Edible Plants",
@@ -207,6 +230,7 @@
     "price": 69
   },
   {
+    "id": 24,
     "name": "Rosemary",
     "description": "Aromatic herb with needle-like leaves, used in cooking and infusions.",
     "commonFeature": "Edible Plants",
@@ -216,6 +240,7 @@
     "price": 89
   },
   {
+    "id": 25,
     "name": "Basil",
     "description": "Fragrant herb with soft green leaves, perfect for culinary dishes like pesto.",
     "commonFeature": "Edible Plants",
