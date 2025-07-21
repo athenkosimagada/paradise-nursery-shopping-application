@@ -44,7 +44,7 @@ const ProductItem = ({ plant }) => {
         disabled={isInCart()}
         onClick={addToCart}
       >
-        Add to Cart
+        {isInCart() ? "Added to cart" : "Add to cart"}
       </Button>
     </div>
   );
